@@ -1,7 +1,7 @@
 Understanding the Example
 =========================
 
-This example uses the framework Toy-PHP (<https://github.com/Mortaro/Toy-PHP>) and the lib Towsta-PHP (), to start a project like this, just clone the template of Toy-PHP, clone Towsta-PHP inside the folder "lib" and read the tips below.
+This example uses the framework Toy-PHP (<https://github.com/Mortaro/Toy-PHP>) and the lib Towsta-PHP (). To start a project like this, just clone the template of Toy-PHP, clone Towsta-PHP inside the folder "lib" and read the tips below.
 
 About "modules" folder
 ----------------------
@@ -16,4 +16,4 @@ Here you synchronize with the Towsta's API and pass the fetched objects to a vie
 About "views" folder
 --------------------
 
-Here is how you show the items on a Towsta's module in your website. The "views/layout.php" remains untoutched since its not important for this tutorial, the "views/books.php" is a `foreach` over `all()` the synchronized objects displaying them as HTML, and the "views/book.php" shows the `first()` and only synchronized object as HTML.
+Here is how you show the items from a Towsta's module in your website. The "views/layout.php" remains untouched since it's not important for this tutorial, the "views/books.php" is a `foreach()` over `all()` the synchronized objects displaying them as HTML, and the "views/book.php" shows the `first()` and only synchronized object as HTML.
