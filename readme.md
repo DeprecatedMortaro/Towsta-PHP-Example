@@ -1,7 +1,7 @@
 Understanding the Example
 =========================
 
-This example uses the framework Toy-PHP (<https://github.com/Mortaro/Toy-PHP>) and the lib Towsta-PHP (). To start a project like this, just clone the template of Toy-PHP, clone Towsta-PHP inside the folder "lib" and read the tips below.
+This example uses the framework Toy-PHP (<https://github.com/Mortaro/Toy-PHP>) and the lib Towsta-PHP (<https://github.com/Mortaro/Towsta-PHP>). To start a project like this, just clone the template of Toy-PHP, clone Towsta-PHP inside the folder "lib" and read the tips below.
 
 About "modules" folder
 ----------------------
